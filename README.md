@@ -1,7 +1,9 @@
 # DockerExamples
 Minimal examples to learn docker
 
-## Run a container with interface to the terminal:
+## Basic examples 
+
+### Run a container with interface to the terminal:
 https://docs.docker.com/engine/reference/run/
 
 E.g. with the python image:
